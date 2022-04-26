@@ -1,2 +1,3 @@
-# wyf
-git study
+wyf
+---
+-study
